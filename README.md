@@ -30,6 +30,10 @@ To run the MyWallet app on your local machine, follow these steps:
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |:-------------:|:-------------:|:-------------:|
 | ![Screenshot 1](Screenshot_20240403_145549.png) | ![Screenshot 2](Screenshot_20240403_115919.png) | ![Screenshot 3](Screenshot_20240403_145721.png) |
+![image](https://github.com/WMSShehara/FirebaseAutentification/assets/114556816/7e699be6-5924-4031-a7a8-061d383265ab)
+![image](https://github.com/WMSShehara/FirebaseAutentification/assets/114556816/fdb79db7-85de-4f6f-97ca-f5ed0ec2521d)
+
+
 
 ## Acknowledgment
 
